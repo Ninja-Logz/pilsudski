@@ -6,7 +6,7 @@
   },
   "responses": {
     "__GAME_ENDING":"RESPONSES",
-    "win":"After careful consideration, a declaration of war may not be the best course of action for my empire. I do not wish to warmonger without good reason.",
+    "win":"Germany has become too much of a nuisance, their repeated threats against our nation have convinced me to join the Allies and declare war on the Central Powers",
     "lose":"I have decided to declare war immediately. Your pathetic attempts will not stop me or my empire.",
 
     "__TEMPERAMENT":"RESPONSES",
