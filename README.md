@@ -17,7 +17,7 @@ Video URL: https://www.youtube.com/watch?v=qcjxwh1tkck
 
 # Installation
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%Ninja-Logz%2Fpilsudski%2Ftree%2Fmaster)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%Ninja&#8212Logz%2Fpilsudski%2Ftree%2Fmaster)
 
 1. First, please deploy to Heroku
 (create an account if you don't have one)
