@@ -7,19 +7,19 @@
   "responses": {
     "__GAME_ENDING":"RESPONSES",
     "win":"Germany has become too much of a nuisance, their repeated threats against our nation have convinced me to join the Allies and declare war on the Central Powers",
-    "lose":"I have decided to declare war immediately. Your pathetic attempts will not stop me or my empire.",
+    "lose":"I have decided to stay out of the War, you points did not please me.",
 
     "__TEMPERAMENT":"RESPONSES",
-    "veryhappy":"Overall, Your points are incredibly valid...your ideas do hold water.",
-    "happy":"Overall, war may be avoided. It is a possibility.",
-    "neutral":"Overall, Continue.",
-    "angry":"Overall, Your words are not appreciated...",
-    "veryangry":"Overall, You will soon feel the wrath of my military.",
+    "veryhappy":"Overall, Your points are incredibly valid...it is highly likely that I will assist you in the war.",
+    "happy":"Overall, you may see my assistance in this war. It is a possibility.",
+    "neutral":"Continue.",
+    "angry":"Overall, Your words are not appreciated, ",
+    "veryangry":"Overall, Your words are convincing me to stay out of this war.",
 
     "good":"I think I am getting better, because of that statement.",
-    "bad":"That statement has swayed my mind towards war.",
+    "bad":"That statement may keep the US out of war.",
     "same":"",
 
-    "stale": "You've already asked me that, haven't you?. It won't change my mind, but..."
+    "stale": "You've already asked me that, haven't you?. It won't change my mind."
   }
 }
